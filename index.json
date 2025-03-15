@@ -109,11 +109,11 @@
     },
     "categories": {},
     "types": {
-      "plugin": [],
-      "project": [],
-      "module": [
+      "plugin": [
         "@elizaos/plugin-starter"
-      ]
+      ],
+      "project": [],
+      "module": []
     }
   }
 }
