@@ -19,13 +19,13 @@
       "gitBranch": "1.0.0-alpha.42",
       "gitTag": "v1.0.0-alpha.42",
       "runtimeVersion": "1.0.0",
-      "releaseDate": "2025-03-15T22:22:50.089Z",
+      "releaseDate": "2025-03-15T22:32:33.079Z",
       "deprecated": false
     }
   ],
   "latestStable": "1.0.0-alpha.42",
   "latestVersion": "1.0.0-alpha.42",
-  "type": "module",
-  "installable": false,
+  "type": "plugin",
+  "installable": true,
   "platform": "universal"
 }
