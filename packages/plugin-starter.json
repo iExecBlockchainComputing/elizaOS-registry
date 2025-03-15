@@ -1,0 +1,31 @@
+{
+  "name": "@elizaos/plugin-starter",
+  "description": "Plugin starter for elizaOS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elizaos-plugins/plugin-starter"
+  },
+  "maintainers": [
+    {
+      "name": "lalalune",
+      "github": "lalalune"
+    }
+  ],
+  "categories": [],
+  "tags": [],
+  "versions": [
+    {
+      "version": "1.0.0-alpha.42",
+      "gitBranch": "1.0.0-alpha.42",
+      "gitTag": "v1.0.0-alpha.42",
+      "runtimeVersion": "1.0.0",
+      "releaseDate": "2025-03-15T22:22:50.089Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": "1.0.0-alpha.42",
+  "latestVersion": "1.0.0-alpha.42",
+  "type": "module",
+  "installable": false,
+  "platform": "universal"
+}
